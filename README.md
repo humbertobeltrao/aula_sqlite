@@ -1,6 +1,6 @@
 # sqlite
 
-A new Flutter project.
+A new Flutter project for SQLite teaching purpose.
 
 ## Getting Started
 
